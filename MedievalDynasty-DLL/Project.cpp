@@ -139,7 +139,7 @@ void Initialize()
 
 	printf("Handle: %p\n", hMD);
 	printf("Base: %llx\n", (INT64)hMD);
-
+	//AoB signature courtesy of SunBeam
 	ScanData signature = ScanData("48 89 5C 24 ? 48 89 74 24 ? 55 57 41 54 41 56 41 57 48 8B EC 48 83 EC ? 80 3D ? ? ? ? 00 45 0F B6 F1 49 8B F8 48 8B DA 4C 8B F9 74");
 	ScanData data = ScanData(0x2000000);
 
