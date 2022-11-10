@@ -11,3 +11,5 @@ For the MS Store version, drop xinput1_4.dll in the folder:
 
 For the Steam version, drop xinput1_3.dll in the folder:
 	....Wherever Steam wants it.  Let me know where works and I'll update this.
+	
+NOTE:  For Steam/GOG do not drop xinput1_3.dll in the folder with the Medieval_Dynasty.exe, it should go in the subfolder "Medieval_Dynasty\Binaries\Win64" alongside Medieval_Dynasty-Win64-Shipping.exe.
