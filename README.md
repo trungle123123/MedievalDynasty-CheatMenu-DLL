@@ -1,5 +1,8 @@
 # MedievalDynasty-RestoreCheatMenu
- DLL to restore the ingame cheat menu.
+
+NOTE:  Reported to not work with version 1.5+.  I will investigate and address when time permits.
+
+DLL to restore the ingame cheat menu.
 
 
 Steam will want xinput1_3.dll, MS Store version will want xinput1_4.dll.
