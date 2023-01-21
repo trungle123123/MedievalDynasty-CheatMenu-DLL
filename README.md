@@ -1,6 +1,10 @@
 # MedievalDynasty-RestoreCheatMenu
 
-NOTE:  Reported to not work with version 1.5+.  I will investigate and address when time permits.
+NOTE:  As of Medieval Dynasty v1.5+, the DLL is not enough on its own to restore the Cheat Menu.
+
+A YT video detailing the updated instructions, involving extracting files from an old game version to mix with the new version can be viewed here - https://www.youtube.com/watch?v=06n0JKxKDGk
+
+
 
 DLL to restore the ingame cheat menu.
 
